@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore the virtual environment
+live/
+
+# Ignore massive datasets
+data/
+
+# Ignore generated model files
+models/

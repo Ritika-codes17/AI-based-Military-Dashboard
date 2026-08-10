@@ -6,7 +6,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🛡 AI-Based Military Intelligence Dashboard")
+st.title("🎯 Predictive Threat Intelligence Engine")
 
 st.markdown("""
 ### Welcome

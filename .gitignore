@@ -222,6 +222,7 @@ live/
 
 # Ignore massive datasets
 data/
+.cvs
 
 # Ignore generated model files
 models/

@@ -23,6 +23,7 @@ os.makedirs("models", exist_ok=True)
 print("Loading GTD Dataset...")
 
 df = pd.read_csv(
+    # your own dataset here .please check if file name is correct.
     "data/globalterrorism.csv",
     encoding="latin1",
     low_memory=False,
